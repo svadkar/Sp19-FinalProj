@@ -303,7 +303,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameRestartDelay: 2
-  speed: 30
+  speed: 40
   rollMult: -45
   pitchMult: 30
   _shieldLevel: 1
@@ -522,7 +522,7 @@ MonoBehaviour:
   - {fileID: 1363528165134160, guid: 87db64fbd7359c14581e2dfee8074de7, type: 2}
   - {fileID: 1561415837402958, guid: 18f85c4e43fd77443b7b5c1828ed076d, type: 2}
   - {fileID: 1589971277156570, guid: a1bac4d872a5b484e8879e537c2aa12c, type: 2}
-  enemySpawnPerSecond: 0.5
+  enemySpawnPerSecond: 0.7
   enemySpawnPadding: 1.5
   weaponDefinitions:
   - type: 1
